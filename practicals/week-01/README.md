@@ -1,4 +1,4 @@
-# Week 01: Logic preliminaries
+# Week 01: Logic Preliminaries
 
 This practical reviews core ideas from propositional and predicate logic. You'll work through short, timed exercises on truth tables, implications, quantifiers, set operations, and translating between natural language and formal notation. Aim to complete each exercise in the suggested time and discuss answers with a colleague.
 
@@ -78,7 +78,7 @@ Let:
 - $F$: operation fails  
 
 1. “If the system is running, then the log file exists.”  
-2. “The request is accepted only if it is authenticated.”  
+2. “The request is accepted only if it is authenticated.” (_Note: For this one, you need to introduce a new proposition..._)
 3. “The buffer is empty or the operation fails.”
 4. “The system is running if and only if the log file exists.”
 
