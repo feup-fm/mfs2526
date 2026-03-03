@@ -3,3 +3,4 @@ This directory contains the materials for the practical sessions of the course "
 
 ## Contents
 - [Week 01: Logic Preliminaries](week-01/README.md)
+- [Week 02: TLA+ Specifications](week-02/README.md)
